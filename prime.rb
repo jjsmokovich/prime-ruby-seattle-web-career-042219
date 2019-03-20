@@ -1,4 +1,4 @@
 # Add  code here!
-def prime?(array)
+def prime?(number)
   
 end
